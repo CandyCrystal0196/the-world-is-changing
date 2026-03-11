@@ -1,0 +1,27 @@
+Angel/Celestial, Automata/Android, Alien
+Basilisk, Beastkin, Behemoth, Belladonna, Bugbear, Banshee, Bigfoot
+Centaur, Cockatrice, Cyclops, Chimera, Celestial/Angel, Chupacabra, Catfolk, Cerberus
+Demon/Satan, Djinn, Dragon, Dryad, Dullahan, Dwarf, Draculla/Vampire, Dogfolk, Draugr/Undead
+Elf, Elemental
+Fairy, Floating ghost, Fenrir/Fenris, Fungi, Fomorian, Fenghuang/Phoenix
+Ghost, Golem, Gorgon(Stheno, Euryale, Medusa), Goblin, Gorilla, Griffin, God, Gargoyle, Ghoul
+Harpy, Homunculus, Hawk, Hydra, Human, Huldra/Hulder
+Imp, Incubus
+Juggernaut, Jiangshi/Zombie, Jorogumo
+Kappa, Kobold, Kitsune, Kraken
+Leviathan, Lich, Lizardman, Loting/Merfolk, Leprechaun
+Manticore, Mandragora, Minotaur, Merfolk/Loting, Mummy, Mothman, Mannequin
+Naga, Nymph, Nekomata, Nessie/Ness
+Ogre, Oni, Orc, Orthrus, Onryoo
+Phoenix/Fenghuang, Phantom, Pegasus
+Qilin/Kirin
+Roc, Ragnarok
+Salamander, Siren, Skeleton, Slime, Spirit, Succubus, Satan/Demon, Specter, Snowman, Satyr, Sphinx, Slenderman, SCP
+Troll, Tengu, Tanuki
+Undead/Draugr, Unicorn
+Vampire/Draculla
+Werewolf, Wraith, Worm, Wyvern, Wendigo, Wight
+Yeti, Youkai, Yuki-onna, Yowie
+Zombie/Jiangshi
+
+
